@@ -1,0 +1,11 @@
+1. Event
+    php artisan make:event Name
+2. Listenner
+    php artisan make:listener Name
+
+3. Template mail
+    - Make mail Template
+        php artisan make:mail Order --markdown=emails.orders.checkout 
+    - Generate mail template 
+        php artisan vendor:publish
+
