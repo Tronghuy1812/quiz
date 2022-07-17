@@ -1,3 +1,4 @@
+Day9
 #### Laravel Seeder Concept
 1. Tạo seeder
     - php artisan make:seeder SeederName
